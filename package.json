@@ -1,0 +1,8 @@
+{
+  "name": "haxball-host",
+  "version": "1.0.0",
+  "main": "haxball.js",
+  "scripts": {
+    "start": "node haxball.js"
+  }
+}
